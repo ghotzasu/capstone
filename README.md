@@ -1,5 +1,7 @@
 # Capstone Project
 
+- 1980-2020_plots.ipynb
+    - Loads and plots relationships from USFS daaset between 1980-2020
 - capstone_eda.ipynb
     - Initial reading and investigation of USFS dataset
     - Performs some data cleaning and writes intermediary dataset (records between 1980-2020) for further processing
